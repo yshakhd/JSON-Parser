@@ -1,0 +1,49 @@
+0
+9
+15
+-15
+123
+-123
+123
+1
+"ab"c"
+""
+"abc"
+" a  bc d"
+"hi"
+"abc\"
+"abc\z"
+"ab	c"
+"ab
+c"
+"abc"
+"abc"
+"abc"
+"ab!"
+"ab and 
+nice"
+"ab'c"
+"ab\\"
+"ab"'
+"
+[]
+[0]
+["abc"]
+[1,[2,[2,[2]]],[1,2]]
+[1,"asb",3,[1,"asb",3]]
+[1,2]
+["]"]
+[[[]]]
+[null,[true,false],[1,["a","b"]],"yeah"]
+null
+null
+true
+false
+true
+{"apple":2, "key":[1,2]}
+{}
+{"apple":["boys","girls"], "bananas":8, "orange":"not a boy"}
+{"apple":["boys","girls"], "banana":8, "oh":[12,25], "orange":"not boy"}
+{"apple":["boys","girls",{"key":123}], "banana":8, "oh":[12,25], "orange":"not boy"}
+{"key":{}}
+{"apple":2, "grapes":[400,800], "key":[1,2], "zebra":"animal"}
